@@ -5,4 +5,4 @@
 - Ввод числа
 - Вывод результата в письменном виде
 # Скриншоты тестов приведены ниже:
-# ![275455646-7c6ac559-9b16-420a-b737-cc302cb9b596](https://github.com/misshasavvash/SavashinskiyMikel/assets/146664036/c3317faa-d880-4e3e-83bc-4ad195a703d0)
+# 
